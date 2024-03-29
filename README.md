@@ -1,4 +1,4 @@
-# collaborative-whiteboard-app
+# Collaborative Whiteboard App
 
 A real-time whiteboarding app using React, Socket.io, and RoughJS.
 
