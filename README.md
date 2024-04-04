@@ -3,7 +3,9 @@
 A real-time whiteboarding app using React, Socket.io, and RoughJS.
 
 ## Demo 🚀
+<div align="center">
 ![demo](https://github.com/pNitesh01/collaborative-whiteboard-app/assets/29385173/cf9e6565-5c03-4c29-85a7-34b85bbc8497)
+</div>
 
 ## Features ✨
 1. Create and join rooms in real-time.
